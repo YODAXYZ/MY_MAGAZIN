@@ -1,6 +1,6 @@
 <?php include ROOT . '/views/layots/header.php'; ?><!--header-->
 <section>
-<!--    <h3>LOMATI</h3>-->
+  <h3>LOMATI</h3>
     <div class="container">
         <div class="row">
             <div class="col-sm-3">
